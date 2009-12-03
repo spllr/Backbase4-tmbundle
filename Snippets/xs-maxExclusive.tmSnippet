@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;xs:maxExclusive value="$1"/&gt;</string>
+	<key>name</key>
+	<string>xs:maxExclusive</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>maxex</string>
+	<key>uuid</key>
+	<string>3E92A9B5-A935-4111-837D-7440546FCF9D</string>
+</dict>
+</plist>

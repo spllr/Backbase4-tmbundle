@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;xs:restriction${1: base="${2:xs:anySimpleType}"}&gt;
+	$0
+&lt;/xs:restriction&gt;</string>
+	<key>name</key>
+	<string>xs:restriction</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>restriction</string>
+	<key>uuid</key>
+	<string>E151CC39-6919-461A-80DA-290799BC4659</string>
+</dict>
+</plist>

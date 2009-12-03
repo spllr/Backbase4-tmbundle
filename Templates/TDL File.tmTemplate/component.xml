@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<d:tdl
+	xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:d="http://www.backbase.com/2006/tdl"
+	xmlns:e="http://www.backbase.com/2006/xel"
+	xmlns:c="http://www.backbase.com/2006/command"
+	xmlns:${TM_PROJECT_NSPREFIX}="${TM_PROJECT_NS}"
+	>
+	
+	<d:namespace name="${TM_PROJECT_NS}">
+		
+		<d:element name="${TM_NEW_FILE_BASENAME}">
+			
+		</d:element>
+		
+	</d:namespace>
+
+</d:tdl>

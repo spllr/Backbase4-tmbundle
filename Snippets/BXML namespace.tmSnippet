@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>xmlns:b="http://www.backbase.com/2006/btl"</string>
+	<key>name</key>
+	<string>BTL namespace</string>
+	<key>scope</key>
+	<string>text.xml.backbase</string>
+	<key>tabTrigger</key>
+	<string>nsb</string>
+	<key>uuid</key>
+	<string>D8F9E997-BA2F-4A44-A440-233F381F2D89</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;d:mapper type="application/${1:javascript}"&gt;
+	$0
+&lt;/d:mapper&gt;</string>
+	<key>name</key>
+	<string>d:mapper</string>
+	<key>scope</key>
+	<string>text.xml.backbase.tdl -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>mapper</string>
+	<key>uuid</key>
+	<string>9A19E81A-4F03-44C3-BDC7-E308CC094900</string>
+</dict>
+</plist>

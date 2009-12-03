@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;e:with-argument name="${1:argument1}"${2: select="${3:true()}"}${2/(.+)?/(?1:\/&gt;:&gt;
+	$4
+&lt;\/e\:with-argument&gt;)/}</string>
+	<key>name</key>
+	<string>e:with-argument</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>witharg</string>
+	<key>uuid</key>
+	<string>2F44227B-17E5-4C3B-B139-1B7DD9590E07</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;e:catch error="$1"&gt;
+	$0
+&lt;/e:catch&gt;</string>
+	<key>name</key>
+	<string>e:catch</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>catch</string>
+	<key>uuid</key>
+	<string>A7FDB873-C2A3-4D74-A198-15D8C0197249</string>
+</dict>
+</plist>

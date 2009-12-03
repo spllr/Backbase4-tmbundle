@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;d:template type="application/${1:x}${1/(j)|(x)|.*/(?1:avascript)(?2:ml)/}"&gt;
+	${4:&lt;${5:div}&gt;
+		&lt;d:content/&gt;
+	&lt;/${5/([^ ]+).*/$1/}&gt;}
+&lt;/d:template&gt;</string>
+	<key>name</key>
+	<string>d:template</string>
+	<key>scope</key>
+	<string>text.xml.backbase.tdl -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>template</string>
+	<key>uuid</key>
+	<string>8BFE8151-BE70-46B3-913E-7D03A9BA336A</string>
+</dict>
+</plist>

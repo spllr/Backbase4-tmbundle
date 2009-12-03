@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bb.command.showHide(${1:${2:this}.viewNode});</string>
+	<key>name</key>
+	<string>showHide</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>showhide</string>
+	<key>uuid</key>
+	<string>2DA11BB4-0F26-4BE4-B124-0CE300E469E1</string>
+</dict>
+</plist>

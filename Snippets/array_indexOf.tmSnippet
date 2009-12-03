@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bb.array.indexOf(${1:array}, ${2:item})</string>
+	<key>name</key>
+	<string>array.indexOf</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>indexof</string>
+	<key>uuid</key>
+	<string>E17495D9-E303-4C3D-AEAA-B6D29C384861</string>
+</dict>
+</plist>

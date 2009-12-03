@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bb.callFunction('$2'${4:, [$3]});</string>
+	<key>name</key>
+	<string>callFunction</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>bbcallf</string>
+	<key>uuid</key>
+	<string>55BEE760-1276-4A09-8ED3-250C836C2EEA</string>
+</dict>
+</plist>

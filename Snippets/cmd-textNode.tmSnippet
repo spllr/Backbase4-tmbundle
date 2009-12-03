@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:value-of select="${1:.}"/&gt;</string>
+	<key>name</key>
+	<string>c:value-of</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>value-of</string>
+	<key>uuid</key>
+	<string>E70BEBC5-A9F7-4A87-A328-9266070E5164</string>
+</dict>
+</plist>

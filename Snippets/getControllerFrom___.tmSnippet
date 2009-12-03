@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bb.getControllerFrom${1:M}${1/(M)|(V)|.*/(?1:odel)(?2:iew)/}(${2:this});</string>
+	<key>name</key>
+	<string>getControllerFrom...</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>bbget</string>
+	<key>uuid</key>
+	<string>C443E39D-D43E-4701-B676-3C42B972685D</string>
+</dict>
+</plist>

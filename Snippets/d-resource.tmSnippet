@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;d:resource type="${1:text/css}"${2: src="${3:${TM_FILENAME/(.*?)(\..+)/$1/}.css}"}${2/(.+)?/(?1:\/&gt;:&gt;
+	$4
+&lt;\/d\:resource&gt;)/}</string>
+	<key>name</key>
+	<string>d:resource</string>
+	<key>scope</key>
+	<string>text.xml.backbase.tdl -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>resource</string>
+	<key>uuid</key>
+	<string>3925C8F8-7952-410E-A372-71DE1301BE12</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;d:destructor type="application/${1:j}${1/(j)|(x)|.*/(?1:avascript)(?2:ml)/}"&gt;
+	$0
+&lt;/d:destructor&gt;</string>
+	<key>name</key>
+	<string>d:destructor</string>
+	<key>scope</key>
+	<string>text.xml.backbase.tdl -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>destructor</string>
+	<key>uuid</key>
+	<string>2B0F5473-C73C-49D0-B09D-236304508E48</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bb.html.setClass(${3:${2:this}.viewNode}, '${1:sClassName}');</string>
+	<key>name</key>
+	<string>setClass</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>setclass</string>
+	<key>uuid</key>
+	<string>F26D7DD9-10D1-4E96-A950-3D7136C139CB</string>
+</dict>
+</plist>

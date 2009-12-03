@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;xi:fallback&gt;
+	$0
+&lt;/xi:fallback&gt;</string>
+	<key>name</key>
+	<string>xi:fallback</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>fallback</string>
+	<key>uuid</key>
+	<string>ECA5956D-76CD-4C3F-A55A-EE05834F54E0</string>
+</dict>
+</plist>

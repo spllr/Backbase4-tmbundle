@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;d:changer type="application/${1:javascript}"&gt;
+	$0
+&lt;/d:changer&gt;</string>
+	<key>name</key>
+	<string>d:changer</string>
+	<key>scope</key>
+	<string>text.xml.backbase.tdl -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>changer</string>
+	<key>uuid</key>
+	<string>C553436B-FDBE-47A1-8C03-F4004D5D69A4</string>
+</dict>
+</plist>

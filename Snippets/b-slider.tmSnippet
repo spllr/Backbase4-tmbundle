@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;b:slider${1: min="${2:0}" max="${3:100}"${4: step="${5:1}"}}${6: snap="${7:true}"}${8: showLabels="${9:true}"}${10: showToolTip="${11:true}"}${1/(.+)?/(?1:\/&gt;:&gt;
+	$0
+&lt;\/b\:slider&gt;)/}</string>
+	<key>name</key>
+	<string>b:slider</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>slider</string>
+	<key>uuid</key>
+	<string>09D49BAA-33BF-404D-9917-CD9FC2E2594F</string>
+</dict>
+</plist>

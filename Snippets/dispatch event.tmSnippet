@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:oEvent} = bb.document.createEvent('Events');
+$1.initEvent('${2:change}', true, true);
+${3:this}.dispatchEvent($1);</string>
+	<key>name</key>
+	<string>Dispatch Event</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>dispatch</string>
+	<key>uuid</key>
+	<string>AE8178E0-4981-48B8-9BC6-F3BB023EF65A</string>
+</dict>
+</plist>

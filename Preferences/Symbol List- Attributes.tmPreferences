@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Symbol List: Attributes</string>
+	<key>scope</key>
+	<string>text.xml.backbase meta.tag.xml.tdl.attribute</string>
+	<key>settings</key>
+	<dict>
+		<key>showInSymbolList</key>
+		<integer>1</integer>
+		<key>symbolTransformation</key>
+		<string>s/^\s*&lt;d:attribute\s+name="([-_a-zA-Z]+)"[\s\S]*/ @$1/</string>
+	</dict>
+	<key>uuid</key>
+	<string>9711EE6F-E457-4D81-AB39-8614029D4EA1</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;b:suggestBox dataSource="$1"${2: query="${3:*[1]}"}${4: suggestDelay="${5:200}"}${6: suggestMaximum="${7:10}"}/&gt;</string>
+	<key>name</key>
+	<string>b:suggestBox</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>suggest</string>
+	<key>uuid</key>
+	<string>D4FA0C21-3E82-47E7-A171-83C064A38E9D</string>
+</dict>
+</plist>

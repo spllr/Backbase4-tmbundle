@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;d:setter type="application/${1:j}${1/(j)|(x)|.*/(?1:avascript)(?2:ml)/}"&gt;
+	$0
+&lt;/d:setter&gt;</string>
+	<key>name</key>
+	<string>d:setter</string>
+	<key>scope</key>
+	<string>text.xml.backbase.tdl -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>setter</string>
+	<key>uuid</key>
+	<string>6CB40A6E-136E-4842-9289-9010FA25B128</string>
+</dict>
+</plist>

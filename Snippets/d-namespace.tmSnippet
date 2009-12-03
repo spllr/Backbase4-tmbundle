@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;d:namespace name="${1:${TM_PROJECT_NS}}"&gt;
+	$0
+&lt;/d:namespace&gt;</string>
+	<key>name</key>
+	<string>d:namespace</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>namespace</string>
+	<key>uuid</key>
+	<string>5F281B55-29E3-4155-A4A2-6EE830417107</string>
+</dict>
+</plist>

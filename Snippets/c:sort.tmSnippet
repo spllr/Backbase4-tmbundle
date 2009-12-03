@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:sort order="${1:a}${1/(a)|(d)|.*/(?1:scending)(?2:escending)/}"/&gt;</string>
+	<key>name</key>
+	<string>c:sort</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>sort</string>
+	<key>uuid</key>
+	<string>78F93331-34CD-4F7B-BDD4-431CA2681445</string>
+</dict>
+</plist>

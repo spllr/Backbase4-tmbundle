@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bb.browser.opera</string>
+	<key>name</key>
+	<string>browser.opera</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>opera</string>
+	<key>uuid</key>
+	<string>B786299D-6E3F-4E5E-87C0-9F4AEFA9ADFB</string>
+</dict>
+</plist>

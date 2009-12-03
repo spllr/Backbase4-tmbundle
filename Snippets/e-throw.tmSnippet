@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;e:throw error="$1"&gt;
+	$0
+&lt;/e:throw&gt;</string>
+	<key>name</key>
+	<string>e:throw</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>throw</string>
+	<key>uuid</key>
+	<string>78803BC9-4D56-4A38-9786-AC85D78B2341</string>
+</dict>
+</plist>

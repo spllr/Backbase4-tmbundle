@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;e:handler event="${1:c}${1/(c)|(D)|.*/(?1:lick)(?2:OMNodeInsertedIntoDocument)/}" type="application/${2:j}${2/(j)|(x)|.*/(?1:avascript)(?2:ml)/}"&gt;
+	$0
+&lt;/e:handler&gt;</string>
+	<key>name</key>
+	<string>e:handler</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>handler</string>
+	<key>uuid</key>
+	<string>77E4A537-AC5C-42F8-A5AA-514B7B8E6D9A</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;b:message event="${1:i}${1/(i)|(v)|.*/(?1:nvalid)(?2:alid)/}"${2: facet="${3:r}${3/(r)|(s)|.*/(?1:equired)(?2:chema)/}"}&gt;$0&lt;/b:message&gt;</string>
+	<key>name</key>
+	<string>b:message</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>message</string>
+	<key>uuid</key>
+	<string>0B2609F9-FEBF-4961-9E72-D40ACA43DAA8</string>
+</dict>
+</plist>

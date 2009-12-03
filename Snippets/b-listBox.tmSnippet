@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;b:listBox${1: size="${2:5}"}${3: multiple="${4:false}"}&gt;
+	$0
+&lt;/b:listBox&gt;</string>
+	<key>name</key>
+	<string>b:listBox</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>listbox</string>
+	<key>uuid</key>
+	<string>15752876-373E-411C-AD0F-C70A1576CD6B</string>
+</dict>
+</plist>

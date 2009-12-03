@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;smil:animate attributeName="${1:opacity}"${2: from="${3:0}"}${4: to="${5:0}"}${6: by="${7:0}"}${8: dur="${9:1s}"}${10: values="$11"}${12: calcMode="${13:l}${13/(d)|(l)|(p)|.*/(?1:iscrete)(?2:inear)(?3:aced)/}"}/&gt;</string>
+	<key>name</key>
+	<string>smil:animate</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>animate</string>
+	<key>uuid</key>
+	<string>43F0AB3B-F12D-494A-9B81-488D3A013ACD</string>
+</dict>
+</plist>

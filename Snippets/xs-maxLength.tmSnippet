@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;xs:maxLength value="${1:8}"/&gt;</string>
+	<key>name</key>
+	<string>xs:maxLength</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>maxlength</string>
+	<key>uuid</key>
+	<string>7C432BAC-77D7-4712-ADA9-B8BCA291CBD3</string>
+</dict>
+</plist>

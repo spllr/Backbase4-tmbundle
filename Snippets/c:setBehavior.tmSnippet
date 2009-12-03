@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:setBehavior select="'$1'"/&gt;</string>
+	<key>name</key>
+	<string>c:setBehavior</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>setbehavior</string>
+	<key>uuid</key>
+	<string>7B6339B0-AB83-45EE-9C19-A35BD635CD4F</string>
+</dict>
+</plist>

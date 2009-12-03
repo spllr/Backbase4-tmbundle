@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;b:menuBarItem label="File"&gt;
+	$0
+&lt;/b:menuBarItem&gt;</string>
+	<key>name</key>
+	<string>b:menuBarItem</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>menubaritem</string>
+	<key>uuid</key>
+	<string>94E9012C-AD3F-44DF-A271-301D3725E2F3</string>
+</dict>
+</plist>

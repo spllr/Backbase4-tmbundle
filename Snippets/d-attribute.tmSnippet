@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;d:attribute name="${1:myAttribute}"${2: default="${3:true}"}&gt;
+	$0
+&lt;/d:attribute&gt;</string>
+	<key>name</key>
+	<string>d:attribute</string>
+	<key>scope</key>
+	<string>text.xml.backbase.tdl -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>attribute</string>
+	<key>uuid</key>
+	<string>CE2188A2-765F-4F70-891A-498413B50299</string>
+</dict>
+</plist>

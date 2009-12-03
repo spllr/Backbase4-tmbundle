@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>xmlns:smil="http://www.w3.org/2005/SMIL21/BasicAnimation"</string>
+	<key>name</key>
+	<string>SMIL namespace</string>
+	<key>scope</key>
+	<string>text.xml.backbase</string>
+	<key>tabTrigger</key>
+	<string>nssmil</string>
+	<key>uuid</key>
+	<string>C5071DDC-C9F9-4F2E-AA3C-C57A1E604796</string>
+</dict>
+</plist>

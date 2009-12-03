@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:oProcessor} = new XSLTProcessor();
+$1.importStylesheet(${2:oStylesheet});
+var ${4:oResult} = $1.transformToDocument(${3:oData});</string>
+	<key>name</key>
+	<string>XSL Transform</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>transform</string>
+	<key>uuid</key>
+	<string>B355BB9C-A8A0-4503-988A-E8149ACD43DA</string>
+</dict>
+</plist>

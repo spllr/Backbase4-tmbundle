@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;e:argument name="${1:myArgument}"${2: required="${3:true}"}/&gt;</string>
+	<key>name</key>
+	<string>e:argument</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>argument</string>
+	<key>uuid</key>
+	<string>912B9030-A166-4823-B582-BB403E7E801F</string>
+</dict>
+</plist>

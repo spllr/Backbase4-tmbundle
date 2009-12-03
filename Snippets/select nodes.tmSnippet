@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>select${2:S}${2/(S)|(N)|.*/(?1:ingleNode)(?2:odes)/}('${3}')</string>
+	<key>name</key>
+	<string>select...</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>select</string>
+	<key>uuid</key>
+	<string>2028D7F2-6D1B-45A2-B8FD-E28C402EB790</string>
+</dict>
+</plist>

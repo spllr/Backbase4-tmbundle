@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;e:fragment${1: xmlns:e="http://www.backbase.com/2006/xel"}&gt;
+	$0
+&lt;/e:fragment&gt;</string>
+	<key>name</key>
+	<string>e:fragment</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>fragment</string>
+	<key>uuid</key>
+	<string>A87D02F8-FD5A-4271-88EF-B4E85B8AB034</string>
+</dict>
+</plist>

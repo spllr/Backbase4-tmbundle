@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bb.addBehavior(${1:this}, ${2:'$TM_PROJECT_NS'}, ${3:sLocalName});</string>
+	<key>name</key>
+	<string>addBehavior</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>addbehavior</string>
+	<key>uuid</key>
+	<string>CEDADEAE-4AE2-4A94-999D-AE28B5744754</string>
+</dict>
+</plist>

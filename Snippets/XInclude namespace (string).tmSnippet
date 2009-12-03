@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>"http://www.w3.org/2001/XInclude"</string>
+	<key>name</key>
+	<string>XInclude namespace (string)</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js.embedded</string>
+	<key>tabTrigger</key>
+	<string>nsxi</string>
+	<key>uuid</key>
+	<string>FFE481B6-DB43-480B-A0D9-372A8787221F</string>
+</dict>
+</plist>

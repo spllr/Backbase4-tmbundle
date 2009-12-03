@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:replaceClass from="'$1'" to="'$2'"/&gt;</string>
+	<key>name</key>
+	<string>c:replaceClass</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>replaceclass</string>
+	<key>uuid</key>
+	<string>A5FB6F70-5146-4F75-9E0A-AFCF7396E438</string>
+</dict>
+</plist>

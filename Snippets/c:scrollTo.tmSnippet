@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:scrollTo/&gt;</string>
+	<key>name</key>
+	<string>c:scrollTo</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>scrollto</string>
+	<key>uuid</key>
+	<string>EC6CE199-8349-4A07-A11B-EC00DB085983</string>
+</dict>
+</plist>

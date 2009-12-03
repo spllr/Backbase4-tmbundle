@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:load url="${1:url}"${2: destination="${3:.}" mode="${4:appendChild}"}${5: method="${6:GET}"}/&gt;</string>
+	<key>name</key>
+	<string>c:load</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>load</string>
+	<key>uuid</key>
+	<string>32009D52-7E57-4277-88D6-8CF2A614093C</string>
+</dict>
+</plist>

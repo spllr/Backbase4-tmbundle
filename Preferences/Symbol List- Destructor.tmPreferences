@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Symbol List: Destructor</string>
+	<key>scope</key>
+	<string>text.xml.backbase meta.tag.xml.tdl.destructor</string>
+	<key>settings</key>
+	<dict>
+		<key>showInSymbolList</key>
+		<integer>1</integer>
+		<key>symbolTransformation</key>
+		<string>s/^\s*&lt;d:(destructor)[\s\S]*&gt;/ __$1 \()/</string>
+	</dict>
+	<key>uuid</key>
+	<string>6AA791C1-1780-4CCE-9206-59C9033402C6</string>
+</dict>
+</plist>

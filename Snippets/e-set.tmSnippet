@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;e:set ${1:v}${1/(p)|(v)|.*/(?1:roperty)(?2:ariable)/}="$2"${3: select="$4"}${3/(.+)?/(?1:\/&gt;:&gt;
+	$5
+&lt;\/e\:set&gt;)/}</string>
+	<key>name</key>
+	<string>e:set</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>set</string>
+	<key>uuid</key>
+	<string>9B344A84-0D05-4453-A304-C9652BB54E65</string>
+</dict>
+</plist>

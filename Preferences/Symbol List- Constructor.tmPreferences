@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Symbol List: Constructor</string>
+	<key>scope</key>
+	<string>text.xml.backbase meta.tag.xml.tdl.constructor</string>
+	<key>settings</key>
+	<dict>
+		<key>showInSymbolList</key>
+		<integer>1</integer>
+		<key>symbolTransformation</key>
+		<string>s/^\s*&lt;d:(constructor)[\s\S]*&gt;/ __$1 \()/</string>
+	</dict>
+	<key>uuid</key>
+	<string>68E56CA8-772A-4947-BE8A-7B4FF6522C73</string>
+</dict>
+</plist>

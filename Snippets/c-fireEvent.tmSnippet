@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:fireEvent event="$1"${2: bubbles="${3:true}"}${4: cancelable="${5:true}"}/&gt;</string>
+	<key>name</key>
+	<string>c:fireEvent</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>fire</string>
+	<key>uuid</key>
+	<string>CF1558D9-7FAB-4A87-A421-1F1748D15C54</string>
+</dict>
+</plist>

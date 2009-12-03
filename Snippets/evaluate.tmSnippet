@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bb.evaluate('${1:.}', ${2:this.modelNode});</string>
+	<key>name</key>
+	<string>evaluate</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>eval</string>
+	<key>uuid</key>
+	<string>410CEA67-94E3-4743-B202-B3BF7BAF4CF1</string>
+</dict>
+</plist>

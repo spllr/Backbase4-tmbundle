@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:transform select="\$${1:data}" stylesheet="\$${2:stylesheet}" destination="${3:.}" mode="${4:replaceChildren}"/&gt; </string>
+	<key>name</key>
+	<string>c:transform</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>transform</string>
+	<key>uuid</key>
+	<string>8E2C7FCE-ED74-459B-93E8-E9859C0807E4</string>
+</dict>
+</plist>

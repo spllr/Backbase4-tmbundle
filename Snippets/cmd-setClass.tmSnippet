@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:setClass select="$1"/&gt;</string>
+	<key>name</key>
+	<string>c:setClass</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>setclass</string>
+	<key>uuid</key>
+	<string>FAF4E12C-3F59-4E6F-A6D6-8D409F785687</string>
+</dict>
+</plist>

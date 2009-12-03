@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;xs:minInclusive value="$1"/&gt;</string>
+	<key>name</key>
+	<string>xs:minInclusive</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>minin</string>
+	<key>uuid</key>
+	<string>5A7D3ABE-EDAE-469A-8907-8B877B6CBF07</string>
+</dict>
+</plist>

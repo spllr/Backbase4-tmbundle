@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>xmlns:ctp="http://www.backbase.com/2008/training/client"</string>
+	<key>name</key>
+	<string>CTP namespace</string>
+	<key>scope</key>
+	<string>text.xml.backbase</string>
+	<key>tabTrigger</key>
+	<string>nsctp</string>
+	<key>uuid</key>
+	<string>FBEB8BF0-4242-442F-9FBD-624E94596C85</string>
+</dict>
+</plist>

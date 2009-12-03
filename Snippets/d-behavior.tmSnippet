@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;d:behavior name="${1:${TM_FILENAME/(.*?)(\..+)/$1/}}"${2: extends="${3:$1}"}${4: implements="${5:$1}"}&gt;
+	$0
+&lt;/d:behavior&gt;</string>
+	<key>name</key>
+	<string>d:behavior</string>
+	<key>scope</key>
+	<string>text.xml.backbase.tdl -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>behavior</string>
+	<key>uuid</key>
+	<string>3B37AD7F-D59C-4EC5-A681-CF5BB670093D</string>
+</dict>
+</plist>

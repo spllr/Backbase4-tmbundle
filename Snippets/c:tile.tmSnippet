@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;c:tile orientation="${1:r}${1/(r)|(c)|.*/(?1:ows)(?2:olumns)/}"/&gt;</string>
+	<key>name</key>
+	<string>c:tile</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>tile</string>
+	<key>uuid</key>
+	<string>75C10354-5AC9-4825-A6D5-EAE791E88332</string>
+</dict>
+</plist>

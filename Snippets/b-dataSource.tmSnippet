@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;b:dataSource name="$1" e:behavior="${2:b:localData}" dataType="${3:application/xml}"${4: dataSelect="$5"}/&gt;</string>
+	<key>name</key>
+	<string>b:dataSource</string>
+	<key>scope</key>
+	<string>text.xml.backbase -(source.js.embedded)</string>
+	<key>tabTrigger</key>
+	<string>datasource</string>
+	<key>uuid</key>
+	<string>0977CB87-81F6-410F-A8D4-91BC03B984C7</string>
+</dict>
+</plist>

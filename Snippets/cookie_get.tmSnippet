@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>bb.cookie.get(${1:name})</string>
+	<key>name</key>
+	<string>cookie.get</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>getcookie</string>
+	<key>uuid</key>
+	<string>985831FC-4BAF-47A5-8BD3-164107EFE47A</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>"http://www.backbase.com/2006/xel"</string>
+	<key>name</key>
+	<string>XEL namespace (string)</string>
+	<key>scope</key>
+	<string>text.xml.backbase source.js</string>
+	<key>tabTrigger</key>
+	<string>nse</string>
+	<key>uuid</key>
+	<string>0C09FB96-19B0-4961-ADB5-246FA8724E22</string>
+</dict>
+</plist>
